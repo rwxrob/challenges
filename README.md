@@ -39,7 +39,9 @@ Under an hour-ish:
 * [`hello`](hello) - print 'Hello world!'
 * [`greet`](greet) - make an interactive introduction
 * [`hi`](hi) - say 'Hi' to a specific person, with default
+* [`termcolors`](termcolors) - print the basic terminal colors
 * [`nyan`](nyan) - print 'nyan' in color repeatedly
+* [`rgb`](rgb) - print any RGB color sequence
 * [`args`](args) - print each argument, one to a line
 * [`8ball`](8ball) - ask magic eightball a question
 * [`urbase`](urbase) - count to 16 in base 2, 8, and 16
